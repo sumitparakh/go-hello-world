@@ -1,3 +1,3 @@
-module github.com/sumitparakh/go-hello-world
+module github.com/sumitparakh/gohelloworld/greetings
 
 go 1.22.1
